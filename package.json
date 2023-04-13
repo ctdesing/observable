@@ -1,0 +1,16 @@
+{
+  "name": "observable",
+  "version": "0.0.1",
+  "description": "My own observable version",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": "https://github.com/ctdesing/observable",
+  "author": "Miguel Arias",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
